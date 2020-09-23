@@ -1,8 +1,8 @@
 spring:
   data:
     mongodb:
-      host: DDAA205A.ppprivmgmt.intraxa
-      port: 27017
-      database: ospc_it
-      username: ospcAppUser
-      password: ospcAppUser
+      host: <your-host>
+      port: <your-port>
+      database: <your-db>
+      username: <your-username>
+      password: <your-pwd>
